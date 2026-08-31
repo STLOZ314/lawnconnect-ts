@@ -1,0 +1,16 @@
+node -v
+v24.20.0
+
+npm -v
+11.19.0
+
+tsc -v
+Version 7.0.2
+
+git --version
+git version 2.54.0.windows.1
+
+gcloud --version
+# Command was typed as gcloud--version and returned:
+# 'gcloud--version' is not recognized as an internal or external command,
+# operable program or batch file.
